@@ -1,1 +1,1 @@
-Simple invocing system for a small local photo studio
+Simple invoicing system for a small local photo studio
